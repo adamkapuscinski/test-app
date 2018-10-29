@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "testApp",
+    "packageName": "com.kapuscinski",
+    "packageFolder": "com/kapuscinski",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pl",
+    "languages": [
+      "en",
+      "pl"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YWY2YjE2ZDI1YmNhZGYyNDUyN2RjNTU4N2NiNmY3MTNmMDBmYmU0OWJjNWFhOWUzMjIzYzRjODMzNWQ3OTZkNWM5YWEyYjNiMzg0NDlkZDIyNjlhZjc2NTU5YWRmZWRjNjYyM2ZkNGZkMWViZjI2ZDY5ODYxODE1NjkwMTdjN2Y="
+  }
+}
